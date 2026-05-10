@@ -83,11 +83,11 @@ export default function Dashboard() {
         </StatCard>
         <StatCard>
           <h4>Func. Ativos</h4>
-          <p>20</p>
+          <p>--</p>
         </StatCard>
         <StatCard>
           <h4>Func. Inativos</h4>
-          <p>5</p>
+          <p>--</p>
         </StatCard>
       </StatsRow>
 
